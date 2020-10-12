@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Connect With Me
-<a href="https://www.linkedin.com/in/ankitverma0306/"><img src="/linkedin.png" alt="alt text" width="30px" height="30px"></a>  <a href="https://www.instagram.com/deadveloper_/"><img src="/instagram.png" alt="alt text" width="30px" height="30px"></a>  <a href="mailto:ankitiitian24.com"><img src="/gmail.png" alt="alt text" width="30px" height="30px"></a>  
+<a href="https://www.linkedin.com/in/vermankit24/"><img src="/linkedin.png" alt="alt text" width="30px" height="30px"></a>  <a href="https://www.instagram.com/deadveloper_/"><img src="/instagram.png" alt="alt text" width="30px" height="30px"></a>  <a href="mailto:ankitiitian24.com"><img src="/gmail.png" alt="alt text" width="30px" height="30px"></a>  
 
 
 ## 🚀 Quick Stats
