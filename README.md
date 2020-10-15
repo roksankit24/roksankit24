@@ -20,13 +20,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 - 🔭 I’m currently working on _Some Personal Projects_.
 
 - 🌱 I’m currently learning _Node.Js_                   
 
 - 🤔 I’m looking for help with _Job Opportunities_
-</br>
+
 
 ### Connect With Me
 <a href="https://www.linkedin.com/in/vermankit24/"><img src="/Social Logos/Linkedin.png" alt="alt text" width="30px" height="30px"></a>  <a href="https://www.instagram.com/deadveloper_/"><img src="/Social Logos/Instagram.png" alt="alt text" width="30px" height="30px"></a>  <a href="mailto:ankitiitian24@gmail.com"><img src="/Social Logos/Gmail.png" alt="alt text" width="30px" height="30px"></a>  <a href="https:www.twitter.com/ankitverma0306/"><img src="/Social Logos/Twitter.png" alt="alt text" width="30ox" height="30px"></a>
