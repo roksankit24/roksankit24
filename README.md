@@ -1,7 +1,8 @@
 ### Hello Guys 👋 Welcome to Deadveloper's Space ...!!
 ### I'm Ankit Verma😄
-[<img src="https://komarev.com/ghpvc/?username=roksankit24&label=Profile+Views&color=2e8b57&style=flat" />](https://github.com/roksankit24)
 <img align="right" src="https://media.giphy.com/media/BgXCo6w7Kslaw/giphy.gif" width="200">
+
+[<img src="https://komarev.com/ghpvc/?username=roksankit24&label=Profile+Views&color=2e8b57&style=flat" />](https://github.com/roksankit24)
 
 
 <!--
@@ -19,9 +20,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 - 🔭 I’m currently working on _Some Personal Projects_.
 - 🌱 I’m currently learning _Node.Js_                   
 - 🤔 I’m looking for help with _Job Opportunities_
+
 
 
 ## Connect With Me
