@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on _Some Personal Projects_.
 
-- 🌱 I’m currently learning _Node.Js_                   
+- 🌱 I’m currently learning _DSA_                   
 
 - 🤔 I’m looking for help with _Job Opportunities_
 
